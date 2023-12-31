@@ -13,7 +13,7 @@
 ### Anggota Kelompok
 <ul>
 <li>Raden Ibnu Huygenz Widodo (1217050116)</li>
-<li></li>
+<li>Sigit Julianto (1217050132) </li>
 <li></li>
 <li></li>
 </ul>
